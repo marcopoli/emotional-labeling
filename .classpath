@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 7 [1.7.0_79]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-api-client-1.22.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-api-client-extensions-1.6.0-beta.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-api-services-oauth2-v1-rev129-1.22.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-api-services-youtube-v3-rev182-1.22.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-api-services-youtubereporting-v1-rev342-1.20.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-http-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-http-client-jackson2-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-oauth-client-1.20.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-oauth-client-java6-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/google-oauth-client-jetty-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/htmlunit-2.26-OSGi.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json-20160810.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/SearchLyricsAPI1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/threads-0.0.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/vget-1.2.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/wget-1.4.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxb-impl-2.1.12.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-client-1.0.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-core-1.0.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-json-1.0.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-server-1.0.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-spring-1.0.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsr311-api-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/wstx-asl-3.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/com.google.inject-2.0.0.v201003051000.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jettison-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-8.3-607.jdbc2ee.jar"/>
+	<classpathentry kind="lib" path="lib/json-20180130.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
